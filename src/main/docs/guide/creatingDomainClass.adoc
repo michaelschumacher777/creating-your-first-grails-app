@@ -29,6 +29,7 @@ package org.grails.guides
 
 class Vehicle {
 
+    Integer year
     String name //<1>
 
     String make
